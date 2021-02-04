@@ -3,13 +3,13 @@
 # Necessary import
 from datetime import datetime
 
-****************************************************
+####################################################
 # Print current date and time with default formatting
 print(datetime.now())
 # output format = [year]-[month]-[day] [hour]:[minute]:[second].[microsecond]
 # output example = 2021-02-04 10:39:31.506319
 
-****************************************************
+####################################################
 
 # Define format of date and time using "strftime"
 # strftime uses %-formatting as a way to decide how you want your date to be formatted
