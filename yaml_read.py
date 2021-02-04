@@ -1,6 +1,6 @@
 # Reading data from yaml file
 
-# Content of example yaml file:
+# Content of example "domains.yaml" file:
 '''
         ---
         Example Entity: example.com
