@@ -1,3 +1,6 @@
+# Script to split one PDF into multiple PDFs
+# Output PDFs each contain one page from the input PDF
+
 from PyPDF2 import PdfFileWriter, PdfFileReader
 
 
